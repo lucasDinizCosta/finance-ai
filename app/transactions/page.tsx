@@ -1,7 +1,5 @@
 const Transactions = () => {
-    return (
-        <h1>transactions page</h1>
-    )
-}
+  return <h1>transactions page</h1>;
+};
 
 export default Transactions;
