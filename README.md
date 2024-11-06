@@ -40,3 +40,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - NEON DB;
 - VERCEL POSTGRES;
 - SUPABASE;
+
+## Bibliotecas
+
+- shadcn/ui: Biblioteca de componentes prontos para criar a aplicação
+  - npx shadcn@2.1.3 init
+  - npx shadcn@2.1.3 add button ==> Adicionando um botão
