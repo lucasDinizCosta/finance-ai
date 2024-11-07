@@ -52,3 +52,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
   - npx shadcn@2.1.3 init
   - npx shadcn@2.1.3 add button ==> Adicionando um botão
 - npm install @clerk/nextjs
+- husky: 
