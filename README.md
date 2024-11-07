@@ -41,8 +41,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - VERCEL POSTGRES;
 - SUPABASE;
 
+## Serviços de autenticação
+
+- Clerk
+- NextAuth (Alternativa totalmente gratuita)
+
 ## Bibliotecas
 
 - shadcn/ui: Biblioteca de componentes prontos para criar a aplicação
   - npx shadcn@2.1.3 init
   - npx shadcn@2.1.3 add button ==> Adicionando um botão
+- npm install @clerk/nextjs
